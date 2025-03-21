@@ -3,8 +3,8 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Indegene Dashboard',
-    default: 'Ind Dashboard',
+    template: '%s | InSheets Dashboard',
+    default: 'InSheets Dashboard',
   },
   description: 'The Invoice Dashboard, built with App Router.',
   // metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
